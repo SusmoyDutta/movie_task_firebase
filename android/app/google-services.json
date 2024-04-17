@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498702518616",
+    "project_id": "movies-videos-app",
+    "storage_bucket": "movies-videos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498702518616:android:d3bb63b19475bc7efe3d2d",
+        "android_client_info": {
+          "package_name": "com.example.m1_task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3Ib4MNy4RelUNzeOzey2BEGOMoC58zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
